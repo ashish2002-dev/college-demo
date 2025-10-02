@@ -1,4 +1,4 @@
 # college-demo
 this is my  first git Repository.
 <br>
-Author - Ashish Singh
+Author - Ashish Singh(dungriyal)
